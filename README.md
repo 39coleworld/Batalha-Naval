@@ -4,4 +4,5 @@ Naval Battle in Java Script
 
 Naval Battle game using java script language
 
-Next: Develop Game Frontend
+## Next
+- [X] Next: Develop Game Frontend
